@@ -25,7 +25,8 @@ SECRET_KEY = 'o(lyso51ft2x+59qjj2)&%)!d%c!-by+obxr5o565a-x^3*q#3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['calculator-shaunak.herokuapp.com',
+                 '127.0.0.1:8000']
 
 
 # Application definition
